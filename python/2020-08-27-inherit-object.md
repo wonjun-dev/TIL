@@ -17,9 +17,9 @@ new-style 클래스와 old-style 클래스는 내부적으로 차이가 있고 �
 
 # new-style
 class SampleClass(object):
-		pass
+	pass
 
 # old-style
 class SampleClass:
-		pass
+	pass
 ```
